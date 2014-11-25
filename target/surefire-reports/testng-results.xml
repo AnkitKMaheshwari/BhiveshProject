@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.framework.project.classes.GmailLoginTest" duration-ms="22785" started-at="2014-11-25T09:21:53Z" finished-at="2014-11-25T09:22:16Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="22785" started-at="2014-11-25T09:21:53Z" finished-at="2014-11-25T09:22:16Z">
+      <class name="com.framework.project.classes.GmailLoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.framework.project.classes.GmailLoginTest@19cdbc83]" name="setUp" is-config="true" duration-ms="15490" started-at="2014-11-25T14:51:53Z" finished-at="2014-11-25T14:52:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="gmailTest()[pri:0, instance:com.framework.project.classes.GmailLoginTest@19cdbc83]" name="gmailTest" duration-ms="6810" started-at="2014-11-25T14:52:08Z" finished-at="2014-11-25T14:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmailTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.framework.project.classes.GmailLoginTest@19cdbc83]" name="tearDown" is-config="true" duration-ms="465" started-at="2014-11-25T14:52:15Z" finished-at="2014-11-25T14:52:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.framework.project.classes.GmailLoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.framework.project.classes.GmailLoginTest -->
+</testng-results>
